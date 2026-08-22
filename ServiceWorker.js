@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project-0.1.0";
 const contentToCache = [
-    "Build/PWATemplateBuild.loader.js",
-    "Build/PWATemplateBuild.framework.js",
-    "Build/PWATemplateBuild.data",
-    "Build/PWATemplateBuild.wasm",
+    "Build/WheelchairAccessFloorplanExample.github.io.loader.js",
+    "Build/WheelchairAccessFloorplanExample.github.io.framework.js",
+    "Build/WheelchairAccessFloorplanExample.github.io.data",
+    "Build/WheelchairAccessFloorplanExample.github.io.wasm",
     "TemplateData/style.css"
 
 ];
